@@ -1,5 +1,5 @@
 # Welcome to FPsim
 
-We are just getting started here! We expect to start releasing code in Q4 2022. 
+This organization is for work related to IDM's agent-based Family Planning Simulator, [FPsim](https://github.com/fpsim/fpsim).
 
 If you have any questions, please contact us at info@fpsim.org.
